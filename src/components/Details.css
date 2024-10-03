@@ -1,0 +1,30 @@
+.details {
+    background-color: #f7f7f7;
+    padding: 20px;
+    margin: 20px 0;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .details h2 {
+    font-size: 24px;
+    margin-bottom: 15px;
+    color: #333;
+  }
+  
+  .details ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .details li {
+    margin-bottom: 10px;
+    font-size: 18px;
+    color: #555;
+  }
+  
+  .details .label {
+    font-weight: bold;
+    color: #333;
+  }
+  

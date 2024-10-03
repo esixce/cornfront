@@ -1,0 +1,8 @@
+.backimg {
+    height: 93vh;
+    background-size: cover; /* Cover the container with the image */
+    background-position: center; /* Center the image horizontally and vertically */
+    display: flex;
+  }
+
+ 

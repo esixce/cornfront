@@ -1,0 +1,59 @@
+.contact-form {
+  background-color: rgba(244, 244, 244, 0.45); /* Set the background color with reduced opacity */
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  width: 600px;
+  margin: 0 auto;
+  height: 460px;
+}
+
+.contact-form h2 {
+  font-size: 24px;
+  margin-bottom: 20px;
+  text-align: center;
+  color: #222;
+}
+
+.form-group {
+  margin-bottom: 15px;
+}
+
+label {
+  display: block;
+  font-weight: bold;
+  color: #333;
+  margin: 5px 30px;
+  text-align: left;
+}
+
+/* Adjust the width and padding for the input fields and text area */
+input[type="text"],
+input[type="email"],
+textarea {
+  width: 90%;
+  padding: 10px; /* Increase padding for better spacing */
+  border: 1px solid #ccc;
+  border-radius: 3px;
+}
+
+/* Adjust the height of the text area */
+textarea {
+  width: 90%;
+  height: 150px; /* Adjust the height as needed */
+}
+
+button {
+  display: block;
+  background-color: #5686BB ;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+  margin: 20px auto;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
